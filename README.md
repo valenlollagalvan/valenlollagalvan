@@ -10,6 +10,7 @@ Estudio Licenciatura en Sistemas, trabajando con proyectos reales de software.
 ### 1. FutLive9
 fundador y desarrollador de Futlive.com, una plataforma SaaS para gestión de torneos deportivos, donde diseñé e implementé lógica configurable de torneos (liga, copa, grupos + eliminación), generación automática de fixtures y sistema de administración con control por roles.
 https://futlive9.com/
+🔒 Repositorio privado por confidencialidad.
 
 ## Contacto
 - LinkedIn: www.linkedin.com/in/valentin-lolla-galvan
