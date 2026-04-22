@@ -7,7 +7,7 @@ Licenciatura en Sistemas | Founder de FutLive9 | Desarrollo de productos digital
 - Experiencia en análisis funcional, definición de requerimientos,  desarrollo de aplicaciones dinámicas y escalables.
 
 ## Proyectos destacados
-### 1. FutLive9 ⚽
+### 1. FutLive9 
 **Rol:** Founder & Software Developer  
 **Período:** 2025 - Actualidad
 Plataforma SaaS para gestión de torneos deportivos.
