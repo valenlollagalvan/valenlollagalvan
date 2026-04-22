@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Valentin Lolla Galvan👋
+Estudio Licenciatura en Sistemas, trabajando con proyectos reales de software.
 
-<!--
-**valenlollagalvan/valenlollagalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- Founder & Software Developer – Futlive.com (2025 – Actualidad)
+- Interesado en arquitectura de software, productos digitales escalables e inteligencia artificial aplicada.
+- Experiencia en análisis funcional, definición de requerimientos,  desarrollo de aplicaciones dinámicas y escalables.
 
-Here are some ideas to get you started:
+## Proyectos destacados
+### 1. FutLive9
+fundador y desarrollador de Futlive.com, una plataforma SaaS para gestión de torneos deportivos, donde diseñé e implementé lógica configurable de torneos (liga, copa, grupos + eliminación), generación automática de fixtures y sistema de administración con control por roles.
+https://futlive9.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- LinkedIn: www.linkedin.com/in/valentin-lolla-galvan
+- Email: valentinlollagalvan@gmail.com
