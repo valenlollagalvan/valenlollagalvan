@@ -57,8 +57,8 @@ El objetivo del proyecto fue construir una solución completa con frontend, back
 - Consumo de API desde frontend.
 - Organización de una solución .NET escalable.
 
-🔗 Repositorio: [agregar enlace del repo SGE]  
-🌐 Demo: [agregar enlace si tenés demo]  
+🔗 Repositorio: https://github.com/valenlollagalvan/SistemaDeGestionExpedientes
+🌐 Demo: https://sistema-de-gestion-expedientes.vercel.app/
 
 ## Tech Stack
 
